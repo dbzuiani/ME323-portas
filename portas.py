@@ -1,3 +1,6 @@
+#Davi Botelho Zuiani - RA: 195992
+#Matheus Sunao Pedrassani - RA: 203590
+
 from random import randint
 import matplotlib.pyplot as plt
 
